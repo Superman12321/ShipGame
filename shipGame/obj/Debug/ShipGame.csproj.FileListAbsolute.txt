@@ -1,0 +1,7 @@
+C:\Users\zden\source\repos\ShipGame\ShipGame\bin\Debug\ShipGame.exe.config
+C:\Users\zden\source\repos\ShipGame\ShipGame\bin\Debug\ShipGame.exe
+C:\Users\zden\source\repos\ShipGame\ShipGame\bin\Debug\ShipGame.pdb
+C:\Users\zden\source\repos\ShipGame\ShipGame\obj\Debug\ShipGame.csproj.AssemblyReference.cache
+C:\Users\zden\source\repos\ShipGame\ShipGame\obj\Debug\ShipGame.csproj.CoreCompileInputs.cache
+C:\Users\zden\source\repos\ShipGame\ShipGame\obj\Debug\ShipGame.exe
+C:\Users\zden\source\repos\ShipGame\ShipGame\obj\Debug\ShipGame.pdb
